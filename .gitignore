@@ -1,4 +1,4 @@
 __pycache__
 .DS_Store
 fastapi-env
-fastapi/.env
+.env
